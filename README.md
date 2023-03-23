@@ -2,13 +2,13 @@
 
 ## <u>Co kto tłumaczy?</u> ##
 
-**Amrita no Kyouen** [Film]
+**Amrita no Kyouen** [Film]  
 * Fusoku Subs
 
-**Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)
+**Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)  
 * Fusoku Subs
 
-**Otonari ni Ginga** (*A Galaxy Next Door*)
+**Otonari ni Ginga** (*A Galaxy Next Door*)  
 * Fusoku Subs
 
 ## <u>Uwzględnione grupy</u> ##
