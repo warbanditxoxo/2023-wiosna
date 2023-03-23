@@ -2,13 +2,13 @@
 
 ## <u>Co kto tłumaczy?</u> ##
 
-**Amrita no Kyouen** [Film]  
+<span style="color:blue">**Amrita no Kyouen**</span>
 * Fusoku Subs
 
-**Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)  
+**Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)
 * Fusoku Subs
 
-**Otonari ni Ginga** (*A Galaxy Next Door*)  
+**Otonari ni Ginga** (*A Galaxy Next Door*)
 * Fusoku Subs
 
 ## <u>Uwzględnione grupy</u> ##
@@ -21,27 +21,27 @@
 
 **Ao no Orchestra**
 
-**Argonavis Movie: Axia** [Film]
+<span style="color:blue">**Argonavis Movie: Axia**</span>
 
-**Azur Lane: Queen's Orders** [OVA]
+<span style="color:darkorange">**Azur Lane: Queen's Orders**</span>
 
 **Birdie Wing: Golf Girls' Story Season 2**
 
-**Bishoujo Senshi Sailor Moon Cosmos Movie** [Film]
+<span style="color:blue">**Bishoujo Senshi Sailor Moon Cosmos Movie**</span>
 
-**Black Clover: Mahou Tei no Ken** (*Black Clover: Sword of the Wizard King*) [Film]
+<span style="color:blue">**Black Clover: Mahou Tei no Ken** (*Black Clover: Sword of the Wizard King*)</span>
 
 **Boku no Kokoro no Yabai Yatsu** (*The Dangers in My Heart*)
 
 **Bosanimal**
 
-**Choujigen Game Neptune The Animation OVA** [OVA]
+<span style="color:darkorange">**Choujigen Game Neptune The Animation OVA**</span>
 
-**Collar x Malice Movie: Deep Cover** [Film]
+<span style="color:blue">**Collar x Malice Movie: Deep Cover**</span>
 
 **Dead Mount Death Play**
 
-**Detective Conan Movie 26: Kurogane no Submarine** [Film]
+<span style="color:blue">**Detective Conan Movie 26: Kurogane no Submarine**</span>
 
 **Dr. Stone: New World**
 
@@ -49,15 +49,15 @@
 
 **Edomae Elf** (*Otaku Elf*)
 
-**Ensemble Stars!! Tsuioku Selection Element** [Web]
+<span style="color:green">**Ensemble Stars!! Tsuioku Selection Element**</span>
 
-**Eternal Boys Next Stage** [Film]
+<span style="color:blue">**Eternal Boys Next Stage**</span>
 
-**Gridman Universe** [Film]
+<span style="color:blue">**Gridman Universe**</span>
 
 **Gunma-chan Season 2**
 
-**IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD** [Web]
+<span style="color:green">**IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD**</span>
 
 **Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta** (*I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too*)
 
@@ -111,11 +111,11 @@
 
 **Pokemon (2023)** (*Pocket Monsters (2023)*)
 
-**Princess Principal: Crown Handler Movie 3** (*Princess Principal: Crown Handler - Chapter 3*) [Film]
+<span style="color:blue">**Princess Principal: Crown Handler Movie 3** (*Princess Principal: Crown Handler - Chapter 3*)</span>
 
-**Psycho-Pass Movie: Providence** [Film]
+<span style="color:blue">**Psycho-Pass Movie: Providence**</span>
 
-**Rakudai Majo: Fuuka to Yami no Majo** [Film]
+<span style="color:blue">**Rakudai Majo: Fuuka to Yami no Majo**</span>
 
 **Rokudou no Onna-tachi**
 
@@ -123,7 +123,7 @@
 
 **Skip to Loafer** (*Skip and Loafer*)
 
-**Tenchi Muyou! GXP: Paradise Shidou-hen** [OVA]
+<span style="color:darkorange">**Tenchi Muyou! GXP: Paradise Shidou-hen**</span>
 
 **Tengoku Daimakyou** (*Heavenly Delusion*)
 
@@ -139,16 +139,23 @@
 
 **Tousouchuu: Great Mission**
 
-**Uma Musume: Pretty Derby - Road to the Top** [Web]
+<span style="color:green">**Uma Musume: Pretty Derby - Road to the Top**</span>
 
 **Watashi no Yuri wa Oshigoto desu!** (*Yuri is My Job!*)
 
 **World Dai Star**
 
-**Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*) [OVA]
+<span style="color:darkorange">**Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*)</span>
 
 **Yamada-kun to Lv999 no Koi wo Suru** (*Loving Yamada at Lv999*)
 
-**YouTuNya** [Web]
+<span style="color:green">**YouTuNya**</span>
 
 **Yuusha ga Shinda!** (*The Legendary Hero Is Dead!*)
+
+## <u>Legenda</u> ##
+
+**Seria TV**  
+<span style="color:blue">**Film**</span>  
+<span style="color:darkorange">**OVA**</span>  
+<span style="color:green">**Seria Web**</span>  
