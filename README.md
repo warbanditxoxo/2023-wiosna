@@ -2,17 +2,22 @@
 
 ## <u>Co kto tłumaczy?</u> ##
 
+**Amrita no Kyouen** [Film]
+* Fusoku Subs
 
+**Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)
+* Fusoku Subs
+
+**Otonari ni Ginga** (*A Galaxy Next Door*)
+* Fusoku Subs
 
 ## <u>Uwzględnione grupy</u> ##
 
-
+* Fusoku Subs
 
 ## <u>Tytuły bez tłumaczeń</u> ##
 
 **Alice Gear Aegis Expansion**
-
-**Amrita no Kyouen** [Film]
 
 **Ao no Orchestra**
 
@@ -68,8 +73,6 @@
 
 **Kaminaki Sekai no Kamisama Katsudou** (*What God Does in a World Without Gods*)
 
-**Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)
-
 **Kawaisugi Crisis** (*Too Cute Crisis*)
 
 **Kidou Senshi Gundam: Suisei no Majo Season 2** (*Mobile Suit Gundam: The Witch from Mercury Season 2*)
@@ -103,8 +106,6 @@
 **Opus.COLORs**
 
 **"Oshi no Ko"**
-
-**Otonari ni Ginga** (*A Galaxy Next Door*)
 
 **Ousama Ranking: Yuuki no Takarabako**
 
