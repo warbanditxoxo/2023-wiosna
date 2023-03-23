@@ -20,6 +20,7 @@
 
 **Dr. Stone: New World**
 * FrixySubs
+* wbijam (Twoja Mała Japonia)
 
 **Edens Zero 2nd Season**
 * FrixySubs
@@ -31,6 +32,9 @@
 **Isekai wa Smartphone to Tomo ni. 2** (*In Another World With My Smartphone 2*)
 * FrixySubs
 
+**Jigokuraku** (*Hell's Paradise*)
+* wbijam (Twoja Mała Japonia)
+
 **Kaminaki Sekai no Kamisama Katsudou** (*What God Does in a World Without Gods*)
 * FrixySubs
 
@@ -40,12 +44,16 @@
 **Kidou Senshi Gundam: Suisei no Majo Season 2** (*Mobile Suit Gundam: The Witch from Mercury Season 2*)
 * Demo Subs
 
+**Kimetsu no Yaiba: Katanakaji no Sato-hen** (*Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc*)
+* wbijam (Twoja Mała Japonia)
+
 **Kimi wa Houkago Insomnia** (*Insomniacs After School*)
 * Demo Subs
 
 **Kono Subarashii Sekai ni Bakuen wo!** (*KonoSuba: An Explosion on This Wonderful World!*)
 * Demo Subs
 * FrixySubs
+* wbijam (Twoja Mała Japonia)
 
 **Kubo-san wa Mob wo Yurusanai** (*Kubo Won't Let Me Be Invisible*)
 * Demo Subs
@@ -58,6 +66,7 @@
 
 **Mashle** (*Mashle: Magic and Muscles*)
 * FrixySubs
+* wbijam (Twoja Mała Japonia)
 
 **Megami no Café Terrace** (*The Café Terrace and Its Goddesses*)
 * FrixySubs
@@ -73,6 +82,7 @@
 **"Oshi no Ko"**
 * Demo Subs
 * FrixySubs
+* wbijam (Twoja Mała Japonia)
 
 **Otonari ni Ginga** (*A Galaxy Next Door*)
 * Fusoku Subs
@@ -106,6 +116,7 @@
 * FujiSubs
 * Fusoku Subs
 * Max-subs
+* wbijam (Twoja Mała Japonia)
 
 ## <u>Tytuły bez tłumaczeń</u> ##
 
@@ -143,13 +154,9 @@
 
 **Isekai Shoukan wa Nidome desu** (*Summoned to Another World for a Second Time*)
 
-**Jigokuraku** (*Hell's Paradise*)
-
 **Jijou wo Shiranai Tenkousei ga Guigui Kuru.** (*My Clueless First Friend*)
 
 **Kawaisugi Crisis** (*Too Cute Crisis*)
-
-**Kimetsu no Yaiba: Katanakaji no Sato-hen** (*Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc*)
 
 **Kizuna no Allele**
 
