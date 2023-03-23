@@ -2,7 +2,7 @@
 
 ## <u>Co kto tłumaczy?</u> ##
 
-<span style="color:blue">**Amrita no Kyouen**</span>
+**Amrita no Kyouen** [Film]
 * Fusoku Subs
 
 **Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)
@@ -21,27 +21,27 @@
 
 **Ao no Orchestra**
 
-<span style="color:blue">**Argonavis Movie: Axia**</span>
+**Argonavis Movie: Axia** [Film]
 
-<span style="color:darkorange">**Azur Lane: Queen's Orders**</span>
+**Azur Lane: Queen's Orders** [OVA]
 
 **Birdie Wing: Golf Girls' Story Season 2**
 
-<span style="color:blue">**Bishoujo Senshi Sailor Moon Cosmos Movie**</span>
+**Bishoujo Senshi Sailor Moon Cosmos Movie** [Film]
 
-<span style="color:blue">**Black Clover: Mahou Tei no Ken** (*Black Clover: Sword of the Wizard King*)</span>
+**Black Clover: Mahou Tei no Ken** (*Black Clover: Sword of the Wizard King*) [Film]
 
 **Boku no Kokoro no Yabai Yatsu** (*The Dangers in My Heart*)
 
 **Bosanimal**
 
-<span style="color:darkorange">**Choujigen Game Neptune The Animation OVA**</span>
+**Choujigen Game Neptune The Animation OVA** [OVA]
 
-<span style="color:blue">**Collar x Malice Movie: Deep Cover**</span>
+**Collar x Malice Movie: Deep Cover** [Film]
 
 **Dead Mount Death Play**
 
-<span style="color:blue">**Detective Conan Movie 26: Kurogane no Submarine**</span>
+**Detective Conan Movie 26: Kurogane no Submarine** [Film]
 
 **Dr. Stone: New World**
 
@@ -49,15 +49,15 @@
 
 **Edomae Elf** (*Otaku Elf*)
 
-<span style="color:green">**Ensemble Stars!! Tsuioku Selection Element**</span>
+**Ensemble Stars!! Tsuioku Selection Element** [Web]
 
-<span style="color:blue">**Eternal Boys Next Stage**</span>
+**Eternal Boys Next Stage** [Film]
 
-<span style="color:blue">**Gridman Universe**</span>
+**Gridman Universe** [Film]
 
 **Gunma-chan Season 2**
 
-<span style="color:green">**IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD**</span>
+**IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD** [Web]
 
 **Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta** (*I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too*)
 
@@ -111,11 +111,11 @@
 
 **Pokemon (2023)** (*Pocket Monsters (2023)*)
 
-<span style="color:blue">**Princess Principal: Crown Handler Movie 3** (*Princess Principal: Crown Handler - Chapter 3*)</span>
+**Princess Principal: Crown Handler Movie 3** (*Princess Principal: Crown Handler - Chapter 3*) [Film]
 
-<span style="color:blue">**Psycho-Pass Movie: Providence**</span>
+**Psycho-Pass Movie: Providence** [Film]
 
-<span style="color:blue">**Rakudai Majo: Fuuka to Yami no Majo**</span>
+**Rakudai Majo: Fuuka to Yami no Majo** [Film]
 
 **Rokudou no Onna-tachi**
 
@@ -123,7 +123,7 @@
 
 **Skip to Loafer** (*Skip and Loafer*)
 
-<span style="color:darkorange">**Tenchi Muyou! GXP: Paradise Shidou-hen**</span>
+**Tenchi Muyou! GXP: Paradise Shidou-hen** [OVA]
 
 **Tengoku Daimakyou** (*Heavenly Delusion*)
 
@@ -139,23 +139,16 @@
 
 **Tousouchuu: Great Mission**
 
-<span style="color:green">**Uma Musume: Pretty Derby - Road to the Top**</span>
+**Uma Musume: Pretty Derby - Road to the Top** [Web]
 
 **Watashi no Yuri wa Oshigoto desu!** (*Yuri is My Job!*)
 
 **World Dai Star**
 
-<span style="color:darkorange">**Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*)</span>
+**Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*) [OVA]
 
 **Yamada-kun to Lv999 no Koi wo Suru** (*Loving Yamada at Lv999*)
 
-<span style="color:green">**YouTuNya**</span>
+**YouTuNya** [Web]
 
 **Yuusha ga Shinda!** (*The Legendary Hero Is Dead!*)
-
-## <u>Legenda</u> ##
-
-**Seria TV**  
-<span style="color:blue">**Film**</span>  
-<span style="color:darkorange">**OVA**</span>  
-<span style="color:green">**Seria Web**</span>  
