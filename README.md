@@ -16,9 +16,23 @@
 
 **Dead Mount Death Play**
 * Demo Subs
+* FrixySubs
+
+**Dr. Stone: New World**
+* FrixySubs
+
+**Edens Zero 2nd Season**
+* FrixySubs
 
 **Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta** (*I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too*)
 * Demo Subs
+* FrixySubs
+
+**Isekai wa Smartphone to Tomo ni. 2** (*In Another World With My Smartphone 2*)
+* FrixySubs
+
+**Kaminaki Sekai no Kamisama Katsudou** (*What God Does in a World Without Gods*)
+* FrixySubs
 
 **Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)
 * Fusoku Subs
@@ -31,20 +45,35 @@
 
 **Kono Subarashii Sekai ni Bakuen wo!** (*KonoSuba: An Explosion on This Wonderful World!*)
 * Demo Subs
+* FrixySubs
 
 **Kubo-san wa Mob wo Yurusanai** (*Kubo Won't Let Me Be Invisible*)
 * Demo Subs
 * FAVA SUBS
 * Desu-Online
 
+**Mahoutsukai no Yome Season 2** (*The Ancient Magus' Bride Season 2*)
+* FrixySubs
+
+**Mashle** (*Mashle: Magic and Muscles*)
+* FrixySubs
+
+**Megami no Café Terrace** (*The Café Terrace and Its Goddesses*)
+* FrixySubs
+
 **My Home Hero**
 * Demo Subs
+* FrixySubs
 
 **"Oshi no Ko"**
 * Demo Subs
+* FrixySubs
 
 **Otonari ni Ginga** (*A Galaxy Next Door*)
 * Fusoku Subs
+
+**Ousama Ranking: Yuuki no Takarabako**
+* FrixySubs
 
 **Tengoku Daimakyou** (*Heavenly Delusion*)
 * Demo Subs
@@ -55,8 +84,12 @@
 **Tokyo Mew Mew New ♡ 2nd Season**
 * Demo Subs
 
+**Tonikaku Kawaii 2nd Season** (*TONIKAWA: Over The Moon For You Season 2*)
+* FrixySubs
+
 **Watashi no Yuri wa Oshigoto desu!** (*Yuri is My Job!*)
 * Demo Subs
+* FrixySubs
 
 **Yuusha ga Shinda!** (*The Legendary Hero Is Dead!*)
 * Demo Subs
@@ -64,6 +97,7 @@
 ## <u>Uwzględnione grupy</u> ##
 
 * Demo Subs
+* FrixySubs
 * Fusoku Subs
 
 ## <u>Tytuły bez tłumaczeń</u> ##
@@ -86,10 +120,6 @@
 
 **Detective Conan Movie 26: Kurogane no Submarine** [Film]
 
-**Dr. Stone: New World**
-
-**Edens Zero 2nd Season**
-
 **Edomae Elf** (*Otaku Elf*)
 
 **Ensemble Stars!! Tsuioku Selection Element** [Web]
@@ -106,13 +136,9 @@
 
 **Isekai Shoukan wa Nidome desu** (*Summoned to Another World for a Second Time*)
 
-**Isekai wa Smartphone to Tomo ni. 2** (*In Another World With My Smartphone 2*)
-
 **Jigokuraku** (*Hell's Paradise*)
 
 **Jijou wo Shiranai Tenkousei ga Guigui Kuru.** (*My Clueless First Friend*)
-
-**Kaminaki Sekai no Kamisama Katsudou** (*What God Does in a World Without Gods*)
 
 **Kawaisugi Crisis** (*Too Cute Crisis*)
 
@@ -124,21 +150,13 @@
 
 **Mahou Shoujo Magical Destroyers**
 
-**Mahoutsukai no Yome Season 2** (*The Ancient Magus' Bride Season 2*)
-
 **Majutsushi Orphen Hagure Tabi: Seiiki-hen**
-
-**Mashle** (*Mashle: Magic and Muscles*)
-
-**Megami no Café Terrace** (*The Café Terrace and Its Goddesses*)
 
 **Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e**
 
 **Niehime to Kemono no Ou** (*Sacrificial Princess and the King of Beasts*)
 
 **Opus.COLORs**
-
-**Ousama Ranking: Yuuki no Takarabako**
 
 **Pokemon (2023)** (*Pocket Monsters (2023)*)
 
@@ -159,8 +177,6 @@
 **Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito** (*The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far*)
 
 **The IDOLM@STER Cinderella Girls: U149**
-
-**Tonikaku Kawaii 2nd Season** (*TONIKAWA: Over The Moon For You Season 2*)
 
 **Tousouchuu: Great Mission**
 
