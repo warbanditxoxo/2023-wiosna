@@ -61,10 +61,14 @@
 
 **Megami no Café Terrace** (*The Café Terrace and Its Goddesses*)
 * FrixySubs
+* Max-subs
 
 **My Home Hero**
 * Demo Subs
 * FrixySubs
+
+**Niehime to Kemono no Ou** (*Sacrificial Princess and the King of Beasts*)
+* Max-subs
 
 **"Oshi no Ko"**
 * Demo Subs
@@ -101,6 +105,7 @@
 * FrixySubs
 * FujiSubs
 * Fusoku Subs
+* Max-subs
 
 ## <u>Tytuły bez tłumaczeń</u> ##
 
@@ -155,8 +160,6 @@
 **Majutsushi Orphen Hagure Tabi: Seiiki-hen**
 
 **Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e**
-
-**Niehime to Kemono no Ou** (*Sacrificial Princess and the King of Beasts*)
 
 **Opus.COLORs**
 
