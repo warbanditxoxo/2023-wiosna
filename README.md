@@ -53,6 +53,7 @@
 * Desu-Online
 
 **Mahoutsukai no Yome Season 2** (*The Ancient Magus' Bride Season 2*)
+* FujiSubs x Demo Subs x Desu-Online
 * FrixySubs
 
 **Mashle** (*Mashle: Magic and Muscles*)
@@ -98,6 +99,7 @@
 
 * Demo Subs
 * FrixySubs
+* FujiSubs
 * Fusoku Subs
 
 ## <u>Tytuły bez tłumaczeń</u> ##
