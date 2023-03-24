@@ -30,11 +30,15 @@
 * FrixySubs
 * DraGoNSubs
 
+**Isekai Shoukan wa Nidome desu** (*Summoned to Another World for a Second Time*)
+* FAVA SUBS
+
 **Isekai wa Smartphone to Tomo ni. 2** (*In Another World With My Smartphone 2*)
 * FrixySubs
 * DraGoNSubs
 
 **Jigokuraku** (*Hell's Paradise*)
+* FAVA SUBS
 * wbijam (Twoja Mała Japonia)
 
 **Kaminaki Sekai no Kamisama Katsudou** (*What God Does in a World Without Gods*)
@@ -115,10 +119,16 @@
 **Yuusha ga Shinda!** (*The Legendary Hero Is Dead!*)
 * Demo Subs
 
+## <u>Hentai</u> ##
+
+**Sazanami Soushi ni Junketsu wo Sasagu**
+* FAVA SUBS
+
 ## <u>Uwzględnione grupy</u> ##
 
 * Demo Subs
 * DraGoNSubs
+* FAVA SUBS
 * FrixySubs
 * FujiSubs
 * Fusoku Subs
@@ -158,8 +168,6 @@
 **IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD** [Web]
 
 **Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita** (*My One-Hit Kill Sister*)
-
-**Isekai Shoukan wa Nidome desu** (*Summoned to Another World for a Second Time*)
 
 **Jijou wo Shiranai Tenkousei ga Guigui Kuru.** (*My Clueless First Friend*)
 
