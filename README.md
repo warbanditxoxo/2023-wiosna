@@ -28,9 +28,11 @@
 **Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta** (*I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too*)
 * Demo Subs
 * FrixySubs
+* DraGoNSubs
 
 **Isekai wa Smartphone to Tomo ni. 2** (*In Another World With My Smartphone 2*)
 * FrixySubs
+* DraGoNSubs
 
 **Jigokuraku** (*Hell's Paradise*)
 * wbijam (Twoja Mała Japonia)
@@ -60,6 +62,9 @@
 * FAVA SUBS
 * Desu-Online
 
+**Kuma Kuma Kuma Bear Punch!**
+* DraGoNSubs
+
 **Mahoutsukai no Yome Season 2** (*The Ancient Magus' Bride Season 2*)
 * FujiSubs x Demo Subs x Desu-Online
 * FrixySubs
@@ -83,6 +88,7 @@
 * Demo Subs
 * FrixySubs
 * wbijam (Twoja Mała Japonia)
+* DraGoNSubs
 
 **Otonari ni Ginga** (*A Galaxy Next Door*)
 * Fusoku Subs
@@ -112,6 +118,7 @@
 ## <u>Uwzględnione grupy</u> ##
 
 * Demo Subs
+* DraGoNSubs
 * FrixySubs
 * FujiSubs
 * Fusoku Subs
@@ -159,8 +166,6 @@
 **Kawaisugi Crisis** (*Too Cute Crisis*)
 
 **Kizuna no Allele**
-
-**Kuma Kuma Kuma Bear Punch!**
 
 **Mahou Shoujo Magical Destroyers**
 
