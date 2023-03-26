@@ -20,6 +20,7 @@
 
 **Dr. Stone: New World**
 * FrixySubs
+* Mioro-Subs
 * wbijam (Twoja Mała Japonia)
 
 **Edens Zero 2nd Season**
@@ -36,9 +37,11 @@
 **Isekai wa Smartphone to Tomo ni. 2** (*In Another World With My Smartphone 2*)
 * FrixySubs
 * DraGoNSubs
+* Mioro-Subs
 
 **Jigokuraku** (*Hell's Paradise*)
 * FAVA SUBS
+* Mioro-Subs
 * wbijam (Twoja Mała Japonia)
 
 **Kaminaki Sekai no Kamisama Katsudou** (*What God Does in a World Without Gods*)
@@ -47,14 +50,19 @@
 **Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)
 * Fusoku Subs
 
+**Kawaisugi Crisis** (*Too Cute Crisis*)
+* Mioro-Subs
+
 **Kidou Senshi Gundam: Suisei no Majo Season 2** (*Mobile Suit Gundam: The Witch from Mercury Season 2*)
 * Demo Subs
 
 **Kimetsu no Yaiba: Katanakaji no Sato-hen** (*Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc*)
+* Mioro-Subs
 * wbijam (Twoja Mała Japonia)
 
 **Kimi wa Houkago Insomnia** (*Insomniacs After School*)
 * Demo Subs
+* Mioro-Subs
 
 **Kono Subarashii Sekai ni Bakuen wo!** (*KonoSuba: An Explosion on This Wonderful World!*)
 * Demo Subs
@@ -72,6 +80,7 @@
 **Mahoutsukai no Yome Season 2** (*The Ancient Magus' Bride Season 2*)
 * FujiSubs x Demo Subs x Desu-Online
 * FrixySubs
+* Mioro-Subs
 
 **Mashle** (*Mashle: Magic and Muscles*)
 * FrixySubs
@@ -100,6 +109,9 @@
 **Ousama Ranking: Yuuki no Takarabako**
 * FrixySubs
 
+**Skip to Loafer** (*Skip and Loafer*)
+* Mioro-Subs
+
 **Tengoku Daimakyou** (*Heavenly Delusion*)
 * Demo Subs
 
@@ -115,6 +127,9 @@
 **Watashi no Yuri wa Oshigoto desu!** (*Yuri is My Job!*)
 * Demo Subs
 * FrixySubs
+
+**Yamada-kun to Lv999 no Koi wo Suru** (*Loving Yamada at Lv999*)
+* Mioro-Subs
 
 **Yuusha ga Shinda!** (*The Legendary Hero Is Dead!*)
 * Demo Subs
@@ -133,6 +148,7 @@
 * FujiSubs
 * Fusoku Subs
 * Max-subs
+* Mioro-Subs
 * wbijam (Twoja Mała Japonia)
 
 ## <u>Tytuły bez tłumaczeń</u> ##
@@ -171,8 +187,6 @@
 
 **Jijou wo Shiranai Tenkousei ga Guigui Kuru.** (*My Clueless First Friend*)
 
-**Kawaisugi Crisis** (*Too Cute Crisis*)
-
 **Kizuna no Allele**
 
 **Mahou Shoujo Magical Destroyers**
@@ -195,8 +209,6 @@
 
 **Shiro Seijo to Kuro Bokushi** (*Saint Cecilia and Pastor Lawrence*)
 
-**Skip to Loafer** (*Skip and Loafer*)
-
 **Tenchi Muyou! GXP: Paradise Shidou-hen** [OVA]
 
 **Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito** (*The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far*)
@@ -210,7 +222,5 @@
 **World Dai Star**
 
 **Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*) [OVA]
-
-**Yamada-kun to Lv999 no Koi wo Suru** (*Loving Yamada at Lv999*)
 
 **YouTuNya** [Web]
