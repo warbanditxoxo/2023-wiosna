@@ -4,6 +4,7 @@
 
 **Amrita no Kyouen** [Film]
 * Fusoku Subs
+* TokyoSubs
 
 **Ao no Orchestra**
 * Demo Subs
@@ -21,6 +22,7 @@
 **Dr. Stone: New World**
 * FrixySubs
 * Mioro-Subs
+* TokyoSubs
 * wbijam (Twoja Mała Japonia)
 
 **Edens Zero 2nd Season**
@@ -30,6 +32,10 @@
 * Demo Subs
 * FrixySubs
 * DraGoNSubs
+* TokyoSubs
+
+**Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita** (*My One-Hit Kill Sister*)
+* TokyoSubs
 
 **Isekai Shoukan wa Nidome desu** (*Summoned to Another World for a Second Time*)
 * FAVA SUBS
@@ -38,6 +44,7 @@
 * FrixySubs
 * DraGoNSubs
 * Mioro-Subs
+* TokyoSubs
 
 **Jigokuraku** (*Hell's Paradise*)
 * FAVA SUBS
@@ -58,6 +65,7 @@
 
 **Kimetsu no Yaiba: Katanakaji no Sato-hen** (*Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc*)
 * Mioro-Subs
+* TokyoSubs
 * wbijam (Twoja Mała Japonia)
 
 **Kimi wa Houkago Insomnia** (*Insomniacs After School*)
@@ -130,6 +138,10 @@
 
 **Yamada-kun to Lv999 no Koi wo Suru** (*Loving Yamada at Lv999*)
 * Mioro-Subs
+* TokyoSubs
+
+**Yoru wa Neko to Issho Season 2** (*Nights with a Cat*)
+* TokyoSubs
 
 **Yuusha ga Shinda!** (*The Legendary Hero Is Dead!*)
 * Demo Subs
@@ -149,6 +161,7 @@
 * Fusoku Subs
 * Max-subs
 * Mioro-Subs
+* TokyoSubs
 * wbijam (Twoja Mała Japonia)
 
 ## <u>Tytuły bez tłumaczeń</u> ##
@@ -182,8 +195,6 @@
 **Gunma-chan Season 2**
 
 **IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD** [Web]
-
-**Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita** (*My One-Hit Kill Sister*)
 
 **Jijou wo Shiranai Tenkousei ga Guigui Kuru.** (*My Clueless First Friend*)
 
