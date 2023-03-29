@@ -47,6 +47,7 @@
 * TokyoSubs
 
 **Jigokuraku** (*Hell's Paradise*)
+* shisha
 * FAVA SUBS
 * Mioro-Subs
 * wbijam (Twoja Mała Japonia)
@@ -64,6 +65,7 @@
 * Demo Subs
 
 **Kimetsu no Yaiba: Katanakaji no Sato-hen** (*Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc*)
+* shisha
 * Mioro-Subs
 * TokyoSubs
 * wbijam (Twoja Mała Japonia)
@@ -73,6 +75,7 @@
 * Mioro-Subs
 
 **Kono Subarashii Sekai ni Bakuen wo!** (*KonoSuba: An Explosion on This Wonderful World!*)
+* shisha
 * Demo Subs
 * FrixySubs
 * wbijam (Twoja Mała Japonia)
@@ -86,6 +89,7 @@
 * DraGoNSubs
 
 **Mahoutsukai no Yome Season 2** (*The Ancient Magus' Bride Season 2*)
+* shisha
 * FujiSubs x Demo Subs x Desu-Online
 * FrixySubs
 * Mioro-Subs
@@ -127,9 +131,11 @@
 * Demo Subs
 
 **Tokyo Mew Mew New ♡ 2nd Season**
+* shisha
 * Demo Subs
 
 **Tonikaku Kawaii 2nd Season** (*TONIKAWA: Over The Moon For You Season 2*)
+* shisha
 * FrixySubs
 
 **Watashi no Yuri wa Oshigoto desu!** (*Yuri is My Job!*)
@@ -161,6 +167,7 @@
 * Fusoku Subs
 * Max-subs
 * Mioro-Subs
+* shisha
 * TokyoSubs
 * wbijam (Twoja Mała Japonia)
 
