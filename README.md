@@ -11,6 +11,7 @@
 
 **Birdie Wing: Golf Girls' Story Season 2**
 * Demo Subs
+* Orfeusz-Subs
 
 **Boku no Kokoro no Yabai Yatsu** (*The Dangers in My Heart*)
 * Demo Subs
@@ -33,6 +34,7 @@
 * FrixySubs
 * DraGoNSubs
 * TokyoSubs
+* Orfeusz-Subs
 
 **Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita** (*My One-Hit Kill Sister*)
 * TokyoSubs
@@ -78,6 +80,7 @@
 * shisha
 * Demo Subs
 * FrixySubs
+* Orfeusz-Subs
 * wbijam (Twoja Mała Japonia)
 
 **Kubo-san wa Mob wo Yurusanai** (*Kubo Won't Let Me Be Invisible*)
@@ -87,6 +90,7 @@
 
 **Kuma Kuma Kuma Bear Punch!**
 * DraGoNSubs
+* Orfeusz-Subs
 
 **Mahoutsukai no Yome Season 2** (*The Ancient Magus' Bride Season 2*)
 * shisha
@@ -126,6 +130,9 @@
 
 **Tengoku Daimakyou** (*Heavenly Delusion*)
 * Demo Subs
+
+**Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito** (*The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far*)
+* Orfeusz-Subs
 
 **The Marginal Service**
 * Demo Subs
@@ -167,6 +174,7 @@
 * Fusoku Subs
 * Max-subs
 * Mioro-Subs
+* Orfeusz-Subs
 * shisha
 * TokyoSubs
 * wbijam (Twoja Mała Japonia)
@@ -228,8 +236,6 @@
 **Shiro Seijo to Kuro Bokushi** (*Saint Cecilia and Pastor Lawrence*)
 
 **Tenchi Muyou! GXP: Paradise Shidou-hen** [OVA]
-
-**Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito** (*The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far*)
 
 **The IDOLM@STER Cinderella Girls: U149**
 
