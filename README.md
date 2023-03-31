@@ -130,6 +130,7 @@
 
 **Tengoku Daimakyou** (*Heavenly Delusion*)
 * Demo Subs
+* FrixySubs
 
 **Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito** (*The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far*)
 * Orfeusz-Subs
