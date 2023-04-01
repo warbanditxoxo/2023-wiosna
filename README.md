@@ -8,6 +8,7 @@
 
 **Ao no Orchestra**
 * Demo Subs
+* Maou Subs
 
 **Birdie Wing: Golf Girls' Story Season 2**
 * Demo Subs
@@ -29,12 +30,16 @@
 **Edens Zero 2nd Season**
 * FrixySubs
 
+**Inu ni Nattara Suki na Hito ni Hirowareta. Specials** [OVA]
+* Maou Subs
+
 **Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta** (*I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too*)
 * Demo Subs
 * FrixySubs
 * DraGoNSubs
 * TokyoSubs
 * Orfeusz-Subs
+* Maou Subs
 
 **Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita** (*My One-Hit Kill Sister*)
 * TokyoSubs
@@ -47,11 +52,13 @@
 * DraGoNSubs
 * Mioro-Subs
 * TokyoSubs
+* Maou Subs
 
 **Jigokuraku** (*Hell's Paradise*)
 * shisha
 * FAVA SUBS
 * Mioro-Subs
+* Maou Subs
 * wbijam (Twoja Mała Japonia)
 
 **Kaminaki Sekai no Kamisama Katsudou** (*What God Does in a World Without Gods*)
@@ -70,6 +77,7 @@
 * shisha
 * Mioro-Subs
 * TokyoSubs
+* Maou Subs
 * wbijam (Twoja Mała Japonia)
 
 **Kimi wa Houkago Insomnia** (*Insomniacs After School*)
@@ -81,6 +89,7 @@
 * Demo Subs
 * FrixySubs
 * Orfeusz-Subs
+* Maou Subs
 * wbijam (Twoja Mała Japonia)
 
 **Kubo-san wa Mob wo Yurusanai** (*Kubo Won't Let Me Be Invisible*)
@@ -100,6 +109,7 @@
 
 **Mashle** (*Mashle: Magic and Muscles*)
 * FrixySubs
+* Maou Subs
 * wbijam (Twoja Mała Japonia)
 
 **Megami no Café Terrace** (*The Café Terrace and Its Goddesses*)
@@ -118,9 +128,11 @@
 * FrixySubs
 * wbijam (Twoja Mała Japonia)
 * DraGoNSubs
+* Maou Subs
 
 **Otonari ni Ginga** (*A Galaxy Next Door*)
 * Fusoku Subs
+* Maou Subs
 
 **Ousama Ranking: Yuuki no Takarabako**
 * FrixySubs
@@ -131,12 +143,14 @@
 **Tengoku Daimakyou** (*Heavenly Delusion*)
 * Demo Subs
 * FrixySubs
+* Maou Subs
 
 **Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito** (*The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far*)
 * Orfeusz-Subs
 
 **The Marginal Service**
 * Demo Subs
+* Maou Subs
 
 **Tokyo Mew Mew New ♡ 2nd Season**
 * shisha
@@ -145,10 +159,15 @@
 **Tonikaku Kawaii 2nd Season** (*TONIKAWA: Over The Moon For You Season 2*)
 * shisha
 * FrixySubs
+* Maou Subs
 
 **Watashi no Yuri wa Oshigoto desu!** (*Yuri is My Job!*)
 * Demo Subs
 * FrixySubs
+* Maou Subs
+
+**Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*) [OVA]
+* Maou Subs
 
 **Yamada-kun to Lv999 no Koi wo Suru** (*Loving Yamada at Lv999*)
 * Mioro-Subs
@@ -173,6 +192,7 @@
 * FrixySubs
 * FujiSubs
 * Fusoku Subs
+* Maou Subs
 * Max-subs
 * Mioro-Subs
 * Orfeusz-Subs
@@ -245,7 +265,5 @@
 **Uma Musume: Pretty Derby - Road to the Top** [Web]
 
 **World Dai Star**
-
-**Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*) [OVA]
 
 **YouTuNya** [Web]
