@@ -141,7 +141,6 @@
 * Mioro-Subs
 
 **Tengoku Daimakyou** (*Heavenly Delusion*)
-* Demo Subs
 * FrixySubs
 * Maou Subs
 
