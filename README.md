@@ -28,6 +28,7 @@
 * wbijam (Twoja Mała Japonia)
 
 **Edens Zero 2nd Season**
+* FujiSubs
 * FrixySubs
 
 **Inu ni Nattara Suki na Hito ni Hirowareta. Specials** [OVA]
