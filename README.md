@@ -54,6 +54,7 @@
 * Mioro-Subs
 * TokyoSubs
 * Maou Subs
+* Fumetsu
 
 **Jigokuraku** (*Hell's Paradise*)
 * shisha
@@ -147,6 +148,7 @@
 
 **Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito** (*The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far*)
 * Orfeusz-Subs
+* Fumetsu
 
 **The Marginal Service**
 * Demo Subs
@@ -191,6 +193,7 @@
 * FAVA SUBS
 * FrixySubs
 * FujiSubs
+* Fumetsu
 * Fusoku Subs
 * Maou Subs
 * Max-subs
