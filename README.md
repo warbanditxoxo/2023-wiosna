@@ -100,6 +100,7 @@
 * Desu-Online
 
 **Kuma Kuma Kuma Bear Punch!**
+* FrixySubs
 * DraGoNSubs
 * Orfeusz-Subs
 
