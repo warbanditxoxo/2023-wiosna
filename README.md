@@ -25,6 +25,7 @@
 * FrixySubs
 * Mioro-Subs
 * TokyoSubs
+* Ōkami-Subs
 * wbijam (Twoja Mała Japonia)
 
 **Edens Zero 2nd Season**
@@ -61,6 +62,7 @@
 * FAVA SUBS
 * Mioro-Subs
 * Maou Subs
+* Ōkami-Subs
 * wbijam (Twoja Mała Japonia)
 
 **Kaminaki Sekai no Kamisama Katsudou** (*What God Does in a World Without Gods*)
@@ -109,15 +111,18 @@
 * FujiSubs x Demo Subs x Desu-Online
 * FrixySubs
 * Mioro-Subs
+* Ōkami-Subs
 
 **Mashle** (*Mashle: Magic and Muscles*)
 * FrixySubs
 * Maou Subs
+* Ōkami-Subs
 * wbijam (Twoja Mała Japonia)
 
 **Megami no Café Terrace** (*The Café Terrace and Its Goddesses*)
 * FrixySubs
 * Max-subs
+* Ōkami-Subs
 
 **My Home Hero**
 * Demo Subs
@@ -159,6 +164,7 @@
 **Tokyo Mew Mew New ♡ 2nd Season**
 * shisha
 * Demo Subs
+* Ōkami-Subs
 
 **Tonikaku Kawaii 2nd Season** (*TONIKAWA: Over The Moon For You Season 2*)
 * shisha
@@ -202,6 +208,7 @@
 * Maou Subs
 * Max-subs
 * Mioro-Subs
+* Ōkami-Subs
 * Orfeusz-Subs
 * shisha
 * TokyoSubs
