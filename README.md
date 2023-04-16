@@ -169,6 +169,7 @@
 * Demo Subs
 * FrixySubs
 * Maou Subs
+* Desu-Online
 
 **Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*) [OVA]
 * Maou Subs
@@ -191,6 +192,7 @@
 ## <u>Uwzględnione grupy</u> ##
 
 * Demo Subs
+* Desu-Online
 * DraGoNSubs
 * FAVA SUBS
 * FrixySubs
