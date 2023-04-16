@@ -26,6 +26,7 @@
 * Mioro-Subs
 * TokyoSubs
 * Ōkami-Subs
+* NanaSubs
 * wbijam (Twoja Mała Japonia)
 
 **Edens Zero 2nd Season**
@@ -48,6 +49,7 @@
 
 **Isekai Shoukan wa Nidome desu** (*Summoned to Another World for a Second Time*)
 * FAVA SUBS
+* NanaSubs
 
 **Isekai wa Smartphone to Tomo ni. 2** (*In Another World With My Smartphone 2*)
 * FrixySubs
@@ -70,6 +72,7 @@
 
 **Kanojo ga Koushaku-tei ni Itta Riyuu** (*The Reason Why Raeliana Ended up at the Duke's Mansion*)
 * Fusoku Subs
+* NanaSubs
 
 **Kawaisugi Crisis** (*Too Cute Crisis*)
 * Mioro-Subs
@@ -112,6 +115,7 @@
 * FrixySubs
 * Mioro-Subs
 * Ōkami-Subs
+* NanaSubs
 
 **Mashle** (*Mashle: Magic and Muscles*)
 * FrixySubs
@@ -146,6 +150,9 @@
 **Ousama Ranking: Yuuki no Takarabako**
 * FrixySubs
 
+**Pokemon (2023)** (*Pocket Monsters (2023)*)
+* NanaSubs
+
 **Skip to Loafer** (*Skip and Loafer*)
 * Mioro-Subs
 
@@ -176,9 +183,11 @@
 * FrixySubs
 * Maou Subs
 * Desu-Online
+* NanaSubs
 
 **Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA** (*My Teen Romantic Comedy SNAFU Climax! OVA*) [OVA]
 * Maou Subs
+* NanaSubs
 
 **Yamada-kun to Lv999 no Koi wo Suru** (*Loving Yamada at Lv999*)
 * Mioro-Subs
@@ -208,6 +217,7 @@
 * Maou Subs
 * Max-subs
 * Mioro-Subs
+* NanaSubs
 * Ōkami-Subs
 * Orfeusz-Subs
 * shisha
@@ -257,8 +267,6 @@
 **Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e**
 
 **Opus.COLORs**
-
-**Pokemon (2023)** (*Pocket Monsters (2023)*)
 
 **Princess Principal: Crown Handler Movie 3** (*Princess Principal: Crown Handler - Chapter 3*) [Film]
 
