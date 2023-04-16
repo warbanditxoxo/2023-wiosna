@@ -7,7 +7,6 @@
 * TokyoSubs
 
 **Ao no Orchestra**
-* Demo Subs
 * Maou Subs
 
 **Birdie Wing: Golf Girls' Story Season 2**
