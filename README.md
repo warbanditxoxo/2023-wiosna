@@ -135,6 +135,7 @@
 
 **Otonari ni Ginga** (*A Galaxy Next Door*)
 * Fusoku Subs
+* Demo Subs
 * Maou Subs
 
 **Ousama Ranking: Yuuki no Takarabako**
