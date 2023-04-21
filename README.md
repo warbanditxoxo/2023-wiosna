@@ -45,6 +45,7 @@
 
 **Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita** (*My One-Hit Kill Sister*)
 * TokyoSubs
+* FAVA SUBS
 
 **Isekai Shoukan wa Nidome desu** (*Summoned to Another World for a Second Time*)
 * FAVA SUBS
