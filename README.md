@@ -164,6 +164,9 @@
 * Orfeusz-Subs
 * Fumetsu
 
+**The IDOLM@STER Cinderella Girls: U149**
+* Demo Subs
+
 **The Marginal Service**
 * Demo Subs
 * Maou Subs
@@ -279,8 +282,6 @@
 **Shiro Seijo to Kuro Bokushi** (*Saint Cecilia and Pastor Lawrence*)
 
 **Tenchi Muyou! GXP: Paradise Shidou-hen** [OVA]
-
-**The IDOLM@STER Cinderella Girls: U149**
 
 **Tousouchuu: Great Mission**
 
