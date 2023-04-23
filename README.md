@@ -82,6 +82,7 @@
 
 **Kimetsu no Yaiba: Katanakaji no Sato-hen** (*Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc*)
 * shisha
+* DA-Subs
 * Mioro-Subs
 * TokyoSubs
 * Maou Subs
@@ -106,6 +107,7 @@
 
 **Kuma Kuma Kuma Bear Punch!**
 * FrixySubs
+* DA-Subs
 * DraGoNSubs
 * Orfeusz-Subs
 
@@ -166,6 +168,7 @@
 
 **The IDOLM@STER Cinderella Girls: U149**
 * Demo Subs
+* DA-Subs
 
 **The Marginal Service**
 * Demo Subs
@@ -193,6 +196,7 @@
 * NanaSubs
 
 **Yamada-kun to Lv999 no Koi wo Suru** (*Loving Yamada at Lv999*)
+* DA-Subs
 * Mioro-Subs
 * TokyoSubs
 
@@ -209,6 +213,7 @@
 
 ## <u>Uwzględnione grupy</u> ##
 
+* DA-Subs
 * Demo Subs
 * Desu-Online
 * DraGoNSubs
